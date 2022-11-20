@@ -1,0 +1,7 @@
+db.sqlite3
+seletive/settings.py
+empresa/migrations/
+__pycache__/
+venv/
+media/
+vagas/migrations/
